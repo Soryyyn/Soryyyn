@@ -16,6 +16,11 @@ I also play games, produce/listen music & draw pixel art in my free-time!
 ## 🔭 What I'm currently working on
 I'm currently working on a rather bigger Vue project called ["Critterpedia"](https://github.com/Soryyyn/Critterpedia "My Critterpedia Repository"). If you played the new Animal Crossing game, you know what it is about, if you haven't it is a list of your currently catched animals. If this project goes "viral" (alot of registered users), I would enjoy every sponsor I would get, to maintain this project!
 
+<a href="https://github.com/soryyyn/critterpedia">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=soryyyn&repo=critterpedia">
+</a>
+<br>
+
 <br>
 
 ## 🌱 What I'm currently learning
