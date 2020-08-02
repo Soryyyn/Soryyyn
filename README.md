@@ -1,6 +1,6 @@
 <h2 align="center">Hi! My name is...</h2>
 <p align="center">
-  <img src="./assets/title_card.gif" width="500" title="titleCard">
+  <img src="assets/title_card.gif" width="500" title="titleCard">
 </p>
 
 <br>
