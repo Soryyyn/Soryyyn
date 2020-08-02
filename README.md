@@ -9,7 +9,7 @@
 My name is Soryn Bächli and I currently live in Switzerland and pursuing my developer career!
 At the moment I have an apprenticeship at Siemens, but also create alot of other projects & try to contribute to many others!
 
-I also play games, produce/listen music & draw pixel art in my free-time!
+I also play video games, produce/listen music & draw pixel art in my free-time!
 
 <br>
 
