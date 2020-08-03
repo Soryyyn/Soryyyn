@@ -38,5 +38,11 @@ I also like to explore linux and more abstract topics!
 
 <br>
 
+## 💸 Want to support me?
+I'd be very grateful for every small donation, because with them I'm able to keep maintaining my future and current projects!
+You can donate me through a [hot chocolate](https://www.buymeacoffee.com/soryn), [PayPal](https://www.paypal.me/soryyyn), or [Github](https://github.com/sponsors/Soryyyn).
+
+<br>
+
 ## ⚡ More stats about me...
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soryyyn&show_icons=true&include_all_commits=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
