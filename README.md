@@ -31,7 +31,7 @@ I also like to explore linux and more abstract topics!
 <br>
 
 ## 📫 Want to contact me?
-- [Homepage/Website](soryn.dev) (currently in the works)
+- [Homepage/Website](https://soryn.dev) (currently in the works)
 - [Twitter](https://twitter.com/dev_soryn)
 - [Github](https://github.com/Soryyyn)
 - Mail: soryn.baechli@gmail.com
