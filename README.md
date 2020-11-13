@@ -9,12 +9,12 @@
 My name is Soryn Bächli and I currently live in Switzerland and pursuing my developer career!
 At the moment I have an apprenticeship at Siemens, but also create alot of other projects & try to contribute to many others!
 
-I also play video games, produce/listen music & draw pixel art in my free-time!
+I also play video games, produce/listen music, draw pixelart and watch **a lot** of anime in my free-time!
 
 <br>
 
 ## 🔭 What I'm currently working on
-I'm currently working on a rather bigger Vue project called ["Critterpedia"](https://github.com/Soryyyn/Critterpedia "My Critterpedia Repository"). If you played the new Animal Crossing game, you know what it is about, if you haven't it is a list of your currently catched animals. If this project goes "viral" (alot of registered users), I would enjoy every sponsor I would get, to maintain this project!
+I'm currently working on a rather bigger Vue project called ["Critterpedia"](https://github.com/Soryyyn/Critterpedia "My Critterpedia Repository"). If you played the new Animal Crossing game, you know what it is about, if you haven't it is a list of your currently catched animals. If this project goes "viral" (a lot of registered users), I would enjoy every sponsor I would get, to maintain this project!
 
 <a href="https://github.com/soryyyn/critterpedia">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=soryyyn&repo=critterpedia">
@@ -35,6 +35,7 @@ I also like to explore linux and more abstract topics!
 - [Twitter](https://twitter.com/dev_soryn)
 - [Github](https://github.com/Soryyyn)
 - Mail: soryn.baechli@gmail.com
+- [MyAnimeList](https://myanimelist.net/animelist/soryn?status=7) (not really contact)
 
 <br>
 
